@@ -1,3 +1,5 @@
-<title>Matelabs</title>
+---
+title: "Mate Rating"
+---
 
 # Hello World
